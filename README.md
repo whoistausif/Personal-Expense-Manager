@@ -41,7 +41,7 @@ src/
 
 ## Deployment
 
-[U can Check this Live [Live Link ]([https://vercel.com](https://personal-expense-manager-mu.vercel.app/))
+[U can Check this Live [Live Link]([https://vercel.com](https://personal-expense-manager-mu.vercel.app/))
 
 ---
 <img width="1904" height="1024" alt="image" src="https://github.com/user-attachments/assets/bd03f3d4-170b-4cd7-b302-38e0f1fba3c2" />

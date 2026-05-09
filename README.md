@@ -41,8 +41,8 @@ src/
 
 ## Deployment
 
-Deploy easily with [Vercel](https://vercel.com) or [Netlify](https://netlify.com) by connecting your GitHub repo.
+[Deploy easily with [Vercel](https://vercel.com) or [Netlify](https://netlify.com) by connecting your GitHub repo.](https://personal-expense-manager-mu.vercel.app/)
 
 ---
 
-**ECAP472 Web Technologies Project**
+
